@@ -19,7 +19,11 @@
     <br>
 
     <label for="aadhar"><b>aadhar</b></label>
-    <input type="aadhar" placeholder="Enter aadhar" name="aadhar" id="psw" required>
+    <input type="aadhar" placeholder="Enter aadhar" name="aadhar" id="aad" required>
+    <br>
+    
+     <label for="Mother"><b>Mother</b></label>
+    <input type="Mother" placeholder="Enter Mother" name="Mother" id="moth" required>
     <br>
 
 
