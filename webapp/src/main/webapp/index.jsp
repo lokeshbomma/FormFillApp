@@ -25,6 +25,10 @@
      <label for="Mother"><b>Mother</b></label>
     <input type="Mother" placeholder="Enter Mother" name="Mother" id="moth" required>
     <br>
+    
+    <label for="Father"><b>Father</b></label>
+    <input type="Father" placeholder="Enter Father" name="Father" id="fath" required>
+    <br>
 
 
     <label for="psw-repeat"><b>Repeat Password</b></label>
