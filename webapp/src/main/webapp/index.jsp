@@ -29,6 +29,10 @@
     <label for="Father"><b>Father</b></label>
     <input type="Father" placeholder="Enter Father" name="Father" id="fath" required>
     <br>
+    
+    <label for="Brother"><b>Brother</b></label>
+    <input type="Brother" placeholder="Enter Brother" name="Brother" id="bro" required>
+    <br>
 
 
     <label for="psw-repeat"><b>Repeat Password</b></label>
