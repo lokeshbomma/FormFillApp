@@ -33,6 +33,10 @@
     <label for="Brother"><b>Brother</b></label>
     <input type="Brother" placeholder="Enter Brother" name="Brother" id="bro" required>
     <br>
+    
+     <label for="Sister"><b>Sister</b></label>
+    <input type="Sister" placeholder="Enter Sister" name="Sister" id="sis" required>
+    <br>
 
 
     <label for="psw-repeat"><b>Repeat Password</b></label>
