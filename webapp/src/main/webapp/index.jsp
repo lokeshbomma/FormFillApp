@@ -26,6 +26,10 @@
     <input type="Mother" placeholder="Enter Mother" name="Mother" id="moth" required>
     <br>
     
+      <label for="Cousin"><b>Cousin</b></label>
+    <input type="Cousin" placeholder="Enter Cousin" name="Cousin" id="cous" required>
+    <br>
+
     <label for="Father"><b>Father</b></label>
     <input type="Father" placeholder="Enter Father" name="Father" id="fath" required>
     <br>
