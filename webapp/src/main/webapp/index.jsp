@@ -29,6 +29,11 @@
       <label for="Cousin"><b>Cousin</b></label>
     <input type="Cousin" placeholder="Enter Cousin" name="Cousin" id="cous" required>
     <br>
+       
+    <label for="Spouse"><b>Spouse</b></label>
+    <input type="Spouse" placeholder="Enter Spouse" name="Spouse" id="spou" required>
+    <br>
+
 
     <label for="Father"><b>Father</b></label>
     <input type="Father" placeholder="Enter Father" name="Father" id="fath" required>
@@ -46,6 +51,10 @@
     <label for="psw-repeat"><b>Repeat Password</b></label>
     <input type="password" placeholder="Repeat Password" name="psw-repeat" id="psw-repeat" required>
     <br>
+<label for="Sister"><b>Sister</b></label>
+    <input type="Sister" placeholder="Enter Sister" name="Sister" id="sis" required>
+    <br>
+
 
     <p>By creating an account you agree to our <a href="#">Terms & Privacy</a>.</p>
     <button type="submit" class="registerbtn">Register</button>
